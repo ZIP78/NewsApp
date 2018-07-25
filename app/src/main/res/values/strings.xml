@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    //empty page
+    <string name="empty_page">No news available</string>
+
+    //no internet
+    <string name="no_net">No internet available</string>
+
+    //setting menu item
+    <string name="settings_menu_item">Settings</string>
+    //setting activity title
+    <string name="settings_title">Earthquake Settings</string>
+
+    <!-- Strings For Search Category[CHAR LIMIT=30] -->
+    <string name="settings_search_category_label">Search By Categories</string>
+    <string name="settings_search_category_key" translatable="false">search_category</string>
+    <string name="settings_search_category_default" translatable="false">@string/settings_sports_category_label</string>
+
+    <!-- label for Search Category -->
+    <string name="settings_sports_category_label">Sports</string>
+    <string name="settings_sports_category_value">sports</string>
+
+    <!-- label for Search Category -->
+    <string name="settings_animals_category_label">Animals</string>
+    <string name="settings_animals_category_value">animals</string>
+
+    <!-- label for Search Category -->
+    <string name="settings_history_category_label">History</string>
+    <string name="settings_history_category_value">history</string>
+
+    <!-- label for Search Category -->
+    <string name="settings_science_category_label">Science</string>
+    <string name="settings_science_category_value">science</string>
+
+    <!-- label for Search Category -->
+    <string name="settings_health_category_label">Health</string>
+    <string name="settings_health_category_value">Health</string>
+
+
+</resources>
+
